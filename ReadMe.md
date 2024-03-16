@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante Full Stack Developer<br>Estou a procura de Estágio<br>
+Sou estudante Full Stack Developer<br>UI Design<br>
 
 
 ## 🌐 Socials:
